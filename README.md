@@ -18,3 +18,6 @@
 
 - Queima de moedas, artigo binance academy: [**Clique aqui**](https://academy.binance.com/pt/articles/what-is-a-coin-burn)
 
+## Modelos de smart contracts
+
+1. Antigo smart contract da binance na rede etherium: [**Clique aqui**](https://etherscan.io/address/0xb8c77482e45f1f44de1745f52c74426c631bdd52#code)
