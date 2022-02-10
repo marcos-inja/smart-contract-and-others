@@ -10,8 +10,11 @@
 
 - Introdução a soliditylang: [**Clique aqui**](https://docs.soliditylang.org/en/v0.5.0/introduction-to-smart-contracts.html)
 
-
 ## Análises
 1. Pelo que estou vendo, podemos alterar algum valor do algoritmo de deflação, já que isso é apenas algo que faz parte do contrato.
 2. Ao criar um smart contract, podemos usar uma blockchain já existente para hostear os nosso tokens.
+
+## Topícos sobre blockchain geral
+
+- Queima de moedas, artigo binance academy: [**Clique aqui**](https://academy.binance.com/pt/articles/what-is-a-coin-burn)
 
